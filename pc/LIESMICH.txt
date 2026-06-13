@@ -1,0 +1,52 @@
+============================================================
+  Phomemo P20 / D30  —  Etikettendruck (Portable, Windows)
+============================================================
+
+So einfach geht's:
+
+  1. "Phomemo P20 Drucker.exe" per Doppelklick starten.
+     (Keine Installation nötig — läuft direkt vom USB-Stick.)
+
+  2. Drucker einschalten. Etiketten (12 mm) einlegen.
+     Falls die App "Print Master" am Handy verbunden ist:
+     dort TRENNEN — sonst ist die Bluetooth-Verbindung belegt.
+
+  3. Im Programm auf "Verbinden" klicken (findet den D30/P20 automatisch).
+
+  4. Inhalt wählen (Tab), Etikettenlänge einstellen, "DRUCKEN".
+
+
+WAS KANN DAS PROGRAMM?
+------------------------------------------------------------
+  • Text     — mehrzeilig, wird proportional auf das Etikett gezoomt
+  • QR-Code
+  • Barcode  — EAN13, Code128, Code39, EAN8, UPC-A, ITF
+  • Bild     — beliebige Bilddatei
+
+  Etikettenlänge:
+  • Fest einstellbar in mm (z.B. 40 mm) ODER
+  • "Länge automatisch" — Etikett passt sich dem Inhalt an
+  • Kopien für mehrere Ausdrucke am Stück
+
+
+GERÄT / VORAUSSETZUNGEN
+------------------------------------------------------------
+  • Windows 10 / 11 mit Bluetooth (BLE)
+  • Phomemo P20 / D30 (12-mm-Etiketten, 203 dpi)
+
+
+HINWEISE
+------------------------------------------------------------
+  • Erster Start dauert ein paar Sekunden (EXE entpackt sich intern).
+
+  • Windows SmartScreen warnt evtl. ("Unbekannter Herausgeber"):
+    "Weitere Informationen" -> "Trotzdem ausführen". Normal bei
+    selbst erstellten Programmen.
+
+  • Tape-Breite ist fest 12 mm (96 Punkte). Inhalte werden
+    automatisch passend skaliert (Zoom, keine Verzerrung).
+
+  • Der Druck beginnt ~1 mm nach der Etikettenkante (technisch bedingt,
+    tolerierbar).
+
+============================================================

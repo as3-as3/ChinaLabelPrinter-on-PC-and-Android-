@@ -1,0 +1,29 @@
+# ── Build-Artefakte ──────────────────────────────────────────────
+dist/
+build/
+__pycache__/
+*.spec
+*.pyc
+Phomemo-P20-Portable/
+Phomemo-P20-Portable.zip
+
+# ── Reverse-Engineering-Artefakte (App-Eigentum, nicht verteilen) ──
+printmaster.apk
+classes*.dex
+*.log
+snoop_p20*.log
+localPaper.json
+DefaultTypeGroup.json
+
+# ── PRIVAT: persönlicher Druckverlauf vom Gerät ──────────────────
+history/
+
+# ── Entwicklungs-/Test-Skripte & Vorschau-Ausgaben ───────────────
+_*.py
+_*.png
+
+# ── OS / Editor ──────────────────────────────────────────────────
+.vscode/
+.idea/
+Thumbs.db
+desktop.ini

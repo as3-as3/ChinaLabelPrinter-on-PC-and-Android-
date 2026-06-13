@@ -1,0 +1,19 @@
+# ── Gradle / Build ───────────────────────────────────────────────
+.gradle/
+build/
+app/build/
+captures/
+*.apk
+*.aab
+
+# ── Maschinen-spezifisch (SDK-Pfad) ──────────────────────────────
+local.properties
+
+# ── Android Studio / IntelliJ ────────────────────────────────────
+.idea/
+*.iml
+.cxx/
+
+# ── OS ───────────────────────────────────────────────────────────
+.DS_Store
+Thumbs.db

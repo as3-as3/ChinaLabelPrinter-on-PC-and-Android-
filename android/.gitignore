@@ -14,6 +14,10 @@ local.properties
 *.iml
 .cxx/
 
+# ── Dev / Icon-Generator-Vorschauen ──────────────────────────────
+_*.png
+__pycache__/
+
 # ── OS ───────────────────────────────────────────────────────────
 .DS_Store
 Thumbs.db

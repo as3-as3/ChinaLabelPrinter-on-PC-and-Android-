@@ -13,6 +13,20 @@ Reverse-engineered aus GATT-Profil und Live-Tests.
 
 ---
 
+## ⬇️ Fertige Programme herunterladen
+
+Keine Installation, kein Build nötig:
+
+| Plattform | Download | Hinweis |
+|---|---|---|
+| 📱 **Android** | **[releases/Phomemo-P20.apk](releases/Phomemo-P20.apk)** | APK herunterladen → öffnen → installieren (Installation aus unbekannten Quellen erlauben) |
+| 🖥️ **Windows** | **[releases/Phomemo-P20-Portable.zip](releases/Phomemo-P20-Portable.zip)** | Entpacken → `Phomemo P20 Drucker.exe` per Doppelklick (läuft auch vom USB-Stick) |
+
+> Beide Programme sind unsigniert (Eigenbau). Android: „Trotzdem installieren".
+> Windows: SmartScreen → „Weitere Informationen" → „Trotzdem ausführen".
+
+---
+
 ## Funktionen (beide Plattformen)
 
 - **Text** (mehrere Schriftarten, proportionaler Auto-Zoom)
